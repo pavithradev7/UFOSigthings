@@ -46,7 +46,9 @@
 	Matt's Question: Has the amount of sightings per year changed after famous UFO events such as Roswell has occured. I will be finding the count of sightings
 					 by year and looking at famous UFO events to see if after their occurance caused some increase or decrease. An increase could signify that
 					 it may just be people trying to report UFO's to be part of a bandwagon. No dramatic change could mean that sightings are just becoming more common
-	Pavithra's Question:
+	
+	Pavithra's Question: I will find the counts the number of reported UFO sightings for each U.S. state and also find which state has the maximum UFO sightings.
+	
 ## Big Data Solutions
 	Matt Big Data Solutions:
 		Mapper input (CSV Formatted File):  10/13/1996 3:19	reno	nv	us	triangle	2400	40 min.	At 3:19 am&#44 bright light seen outside window and then one small tugboat triangular shaped aircraft seen over the house and then both oc	3/7/1998	39.5297222	-119.8127778
@@ -58,5 +60,5 @@
 		Mapper input (CSV Formatted File):
 		Mapper output / Reducer input:
 		Reducer output:
-		Language:
-		Chart:
+		Language: I will be using Python
+		Chart: I will display a bar graph, which shows which state has maximum UFO sightings
