@@ -47,7 +47,7 @@
 					 by year and looking at famous UFO events to see if after their occurance caused some increase or decrease. An increase could signify that
 					 it may just be people trying to report UFO's to be part of a bandwagon. No dramatic change could mean that sightings are just becoming more common
 	
-	Pavithra's Question: I will find the counts the number of reported UFO sightings for each U.S. state and also find which state has the maximum UFO sightings.
+	Pavithra's Question: I will find the count of the number of reported UFO sightings for each U.S. state.
 	
 ## Big Data Solutions
 	Matt Big Data Solutions:
@@ -56,9 +56,9 @@
 		Reducer output:  1940	 159
 		Language:  I will be using Python
 		Chart: I will display a line graph, that way you can view how the values had increased or decreased by year. 
-	Pavithra Big Data Solutions
-		Mapper input (CSV Formatted File):
-		Mapper output / Reducer input:
-		Reducer output:
+	Pavithra Big Data Solutions:
+		Mapper input (CSV Formatted File): 10/10/1949 20:30	san marcos	tx	us	cylinder	2700	45 minutes	This event took place in early fall around 1949-50. It occurred after a Boy Scout meeting in the Baptist Church. The Baptist Church sit	4/27/2004	29.8830556	-97.9411111	
+		Mapper output / Reducer input: tx 1
+		Reducer output:tx 4394
 		Language: I will be using Python
-		Chart: I will display a bar graph, which shows which state has maximum UFO sightings
+		Chart: I will display a bar graph, which shows what state has how many UFO sightings
