@@ -7,6 +7,7 @@
 	Developers: Matthew Woolery, Pavithra Devdas
 ## Links
 Repository: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century)
+
 Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open)
 
 ## Introduction
