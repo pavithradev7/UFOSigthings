@@ -6,8 +6,8 @@
 	Project Group 1F
 	Developers: Matthew Woolery, Pavithra Devdas
 ## Links
-	Repository: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century)
-	Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open)
+Repository: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century)
+Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/issues?status=new&status=open)
 
 ## Introduction
 	Our project is an analysis of reported UFO sightings from the past century.  We would like to see count of the number of annually reported
@@ -36,7 +36,7 @@
 
 
 ## Data Source Link
-	[https://www.kaggle.com/NUFORC/ufo-sightings/data](https://www.kaggle.com/NUFORC/ufo-sightings/data)
+[https://www.kaggle.com/NUFORC/ufo-sightings/data](https://www.kaggle.com/NUFORC/ufo-sightings/data)
 ## The Challenge (Big Data Qualifications)
 	Volume: It is has around 89000 records, although this can be done with excel for the most part, it is still many records that we could not do buy hand easily but it will continue to grow
 	Variety: A variety of calculations can be done, you could find occurences by location, figure out common shapes and descriptions, and find how the have changed in the past century
