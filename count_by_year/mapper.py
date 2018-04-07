@@ -11,12 +11,12 @@ for line in input:
         if date_time != "":
             try:
                 dt = datetime.datetime.strptime(date_time, '%m/%d/%Y %H:%M')
-                #print dt.year
-                year = dt.year
-                fout.write(year + ",1\n")
-                
+                print dt.year
+                year = dt.year  
             except: 
-                print "error"
+                print "error" # only prints to console and only happens when the formatting is not correct
+            fout.write(str(year) + ",1\n")
+
             
             
 
