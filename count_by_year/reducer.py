@@ -17,12 +17,14 @@ for line in input:
     if year != key:
         # we go in and write the value of the year and then move on to the next year and reset the value
         output.write(key + ", " + str(value) + "\n")
+        print key + ", " + str(value) + "\n"
         key = year
         value = 0
     # increment the value
     value = value + 1
 # write the value of the last item
 output.write(key + ", " + str(value) + "\n") 
+print key + ", " + str(value) + "\n"
 # close the file
 input.close()
 output.close()
