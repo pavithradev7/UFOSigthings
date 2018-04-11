@@ -1,0 +1,58 @@
+ab	Alberta	2
+ak	Alaska	4
+al	Alabama	10
+ar	Arkansas	9
+az	Arizona	27
+bc	British Columbia	8
+ca	California	105
+co	Colorado	33
+ct	Connecticut	11
+fl	Florida	48
+ga	Georgia	16
+hi	Hawaii	4
+ia	Iowa	10
+id	Idaho	5
+il	Illinois	57
+in	Indiana	20
+ks	Kansas	6
+ky	Kentucky	17
+la	Louisiana	3
+ma	Massachusets	13
+mb	Manitoba	2
+md	Maryland	7
+me	Maine	8
+mi	Michigan	34
+mn	Minnesota	19
+mo	Missouri	24
+ms	Mississippi	7
+mt	Montana	1
+nb	New Brunswick	2
+nc	North Carolina	23
+nd	North Dakota	1
+ne	Nebraska	4
+nf	Newfoundland	2
+nh	New Hampshire	7
+nj	New Jersey	13
+nm	New Mexico	24
+nv	Nevada	16
+ny	New York	64
+oh	Ohio	41
+ok	Oklahoma	9
+on	Ontario	20
+or	Oregon	26
+pa	Pennsalvania	20
+pr	Puerto Rico	2
+qc	Quebec	1
+ri	Rhode Island	6
+sc	South Carolina	15
+sd	South Dakota	1
+sk	Saskatchewon	3
+tn	Tennessee	18
+tx	Texas	49
+ut	Utah	5
+va	Virginia	17
+vt	Vermont	2
+wa	Washington	57
+wi	Wisconsin	18
+wv	West Virginia	10
+wy	Wyoming	1
