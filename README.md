@@ -88,3 +88,19 @@ Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-centu
 
 ![Count By State](pictures/CountByState.png)
 		  
+## What the Data Means
+	We tried to answer our quetions using MapReduce on our data source and were successful in finding some valuable information that could help people
+	that are trying to find UFO's, know where to go and have an explanationn for why sightings may increase at different points in time.
+	
+	Looking at the Count By Year problem shown in the first image, we see that that UFO sightings were relatively low throughout the early part of the
+	past century with a few spikes occuring in the 70s.  One could speculate that the increase in encounters at this time could be due to the release
+	of many extraterrestrial themed movies such as Star Wars, and Close Encounters of the Third Kind.  The next biggest increase in UFO sightings occurs
+	in the early 90's and continues up to now, we suspect that the increase in the amount of communication that occurs between people through the internet
+	and mobile phones has gotten people to talk and report about things that they see.
+	
+	Looking at the Count by State problem in the second image, we see that UFO sightings occur throughout North America, but we found that the distribution
+	of these sightings across states shows that there are some areas that have more UFO sightings.  When thinking of UFOs, you may think of the Southwest
+	United States, namely Arizona and New Mexico, the data shows that the Southwestern states have generally higher sighting counts than other states.
+	Other states with high number of sightings are states that are more densely populated and have more major cities in them such as California and New York.
+	States that have lots of farmland such as Illinois also have lots of sigtings, maybe because when we think of aliens, we think of farms as well.
+	The top 5 UFO sighting states are California, New York, Illinois, Washington, and Texas.
