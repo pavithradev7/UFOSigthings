@@ -63,3 +63,27 @@ Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-centu
 		Reducer output:tx 4394
 		Language: I will be using Python
 		Chart: I will display a heat map, which shows what state has how many UFO sightings
+		
+## Setup Instructions
+	Have python 2.6.6, git bash window, and python set up in your system environment variables path.
+	
+	Matt: Run mapper.py with: python mapper.py
+		  Run sorter.py with: python sorter.py
+		  Run reducer.py with: python reducer.py
+		  
+		  MapReduce has been completed and the output is stored in mattresults.txt which you should then open in excel
+		  In excel, import the data and separate the data by commas since it is in a csv format
+		  Clean data as needed and select the data to create a scatter plot chart
+		  
+	Pavithra: Run mapper.py with: python mapper.py
+		  	  Run sorted.py with: python sorted.py
+		  	  Run reducer.py with: python reducer.py
+			  
+			  The MapReduce jobs are done. For each stae Ufo Sigthings are listed and the output is stored in resutls.txt file.
+			  Open the results in excel and import the data and the data is separated by comma and select all the rows to create the 
+			  heat map for the relevant data.
+## Images
+	![Count By Year](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/CountByYearGraph.png)
+	
+	![Count By State](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/count_by_state.jpg)
+		  
