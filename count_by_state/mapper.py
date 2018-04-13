@@ -3,7 +3,7 @@ import datetime
 input = open("complete.csv", "r")
 output = open("Output.txt","w")
 
-#initialize the year var to 0
+#initialize the state
 state = 0
 #reading all of the lines of the given input file
 for line in input:
