@@ -86,5 +86,5 @@ Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-centu
 
  [Count By Year](pictures/CountByYearGraph.png)
 
-[Count By State](pictures/count_by_state.jpg)
+[Count By State](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/f1b244e0a8f78cf6a82742033d9e4b0a6b1dc0f6/pictures/count_by_state.JPG)
 		  
