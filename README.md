@@ -83,7 +83,7 @@ Issue Tracker: [https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-centu
 			  Open the results in excel and import the data and the data is separated by comma and select all the rows to create the 
 			  heat map for the relevant data.
 ## Images
-	![Count By Year](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/CountByYearGraph.png)
+![Count By Year](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/CountByYearGraph.png)
 	
-	![Count By State](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/count_by_state.jpg)
+![Count By State](https://bitbucket.org/mwoolery/ufo-sightings-from-the-last-century/src/pictures/count_by_state.jpg)
 		  
